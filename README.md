@@ -8,7 +8,7 @@
 
 ## Site public
 
-[Consulter Bald Leaders Index](https://bald-leaders-index.arthurmartinez727.chatgpt.site)
+[Consulter Bald Leaders Index](https://baldleadersindex.github.io)
 
 ## Confidentialité
 
