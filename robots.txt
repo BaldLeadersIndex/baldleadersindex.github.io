@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /merci/
+Disallow: /en/thank-you/
+Disallow: /partager/
+
+Sitemap: https://baldleadersindex.github.io/sitemap.xml
