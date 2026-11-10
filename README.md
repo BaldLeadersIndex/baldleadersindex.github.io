@@ -16,12 +16,14 @@ Ce dépôt contient uniquement le code public du site et ses ressources graphiqu
 
 ## Développement
 
-Le projet utilise TypeScript, React et Vinext. Il nécessite Node.js 22.13 ou une version plus récente.
+Le site est statique et repose sur HTML, CSS et JavaScript natifs. Il peut être prévisualisé avec n’importe quel serveur HTTP local, sans dépendance ni étape de compilation.
 
-```bash
-npm ci
-npm run dev
-```
+Pages principales :
+
+- `index.html` : version française
+- `en/index.html` : version anglaise
+- `merci/` et `en/thank-you/` : confirmations
+- `partager/` : redirection sécurisée pour les anciens liens
 
 ## Logo
 
